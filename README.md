@@ -37,7 +37,7 @@ Interactive filters (State, District, Date)
 Multi-page navigation (Overview | Analysis | Trends)  
 
 🔗 Live Dashboard  
-👉 ([Add your Power BI link here](https://app.powerbi.com/groups/me/reports/2005a8fb-8115-40cb-8bde-9d896fb24816/57afe543d098a8c9e6b0?experience=power-bi))  
+👉 (https://app.powerbi.com/groups/me/reports/2005a8fb-8115-40cb-8bde-9d896fb24816/57afe543d098a8c9e6b0?experience=power-bi) 
 
 📸 Dashboard Preview  
 <img width="635" height="805" alt="Screenshot 2026-04-23 224757" src="https://github.com/user-attachments/assets/cf8c90f9-8951-4c46-b5de-b6f27790f2e3" />
